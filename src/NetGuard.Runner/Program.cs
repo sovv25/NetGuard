@@ -6,7 +6,8 @@ var mlContext = new MLContext(seed: 42);
 var loader = new DataLoader(mlContext);
 var trainer = new ModelTrainer(mlContext);
 
-var basePath = @"C:\Users\Sov\source\repos\NetGuard";
+var basePath = Path.GetFullPath(Path.Combine(
+    AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "..", ".."));
 var trainPath = Path.Combine(basePath, "data", "raw", "KDDTrain+.txt");
 var modelPath = Path.Combine(basePath, "data", "processed", "netguard-model.zip");
 
