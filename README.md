@@ -33,3 +33,9 @@ AI-Driven Intrusion Detection Systems
 
 ## Dataset
 NSL-KDD — available on [Kaggle](https://www.kaggle.com/datasets/hassan06/nslkdd)
+## Getting Started
+After cloning, run the setup script:
+```powershell
+.\setup.ps1
+```
+Then place `KDDTrain+.txt` and `KDDTest+.txt` in `data/raw/` and you're ready to go.
