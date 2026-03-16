@@ -2,6 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/NetGuard.API/NetGuard.API.csproj" />
     <Project Path="src/NetGuard.ML/NetGuard.ML.csproj" />
+    <Project Path="src/NetGuard.Runner/NetGuard.Runner.csproj" />
     <Project Path="src/NetGuard.Web/NetGuard.Web.csproj" />
   </Folder>
 </Solution>
