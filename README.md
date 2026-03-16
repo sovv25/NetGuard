@@ -1,4 +1,9 @@
 # NetGuard 🛡️
+![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![ML.NET](https://img.shields.io/badge/ML.NET-5.0-512BD4)
+![.NET](https://img.shields.io/badge/.NET-10.0-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
 **AI-Driven Network Intrusion Detection System**
 
 A machine learning system that classifies network traffic as 
