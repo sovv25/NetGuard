@@ -1,0 +1,6 @@
+@NetGuard.API_HostAddress = http://localhost:5048
+
+GET {{NetGuard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

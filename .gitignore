@@ -416,3 +416,22 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Data files (too large for Git)
+data/raw/
+*.csv
+*.zip
+
+# ML model binaries
+*.onnx
+*.zip
+*.mlnet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS / Rider
+.vs/
+.idea/
