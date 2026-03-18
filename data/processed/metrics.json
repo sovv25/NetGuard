@@ -1,0 +1,7 @@
+{
+  "MacroAccuracy": 0.4847162519969254,
+  "MicroAccuracy": 0.8412791316377567,
+  "LogLoss": 2.4140303735881297,
+  "LogLossReduction": -0.6318483139755631,
+  "EvaluatedAt": "2026-03-18T09:05:56.4387633Z"
+}
